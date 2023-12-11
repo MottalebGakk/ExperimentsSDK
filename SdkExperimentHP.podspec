@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
     s.name              = 'SdkExperimentHP' # Name for your pod
-    s.version           = '0.0.2'
-    s.summary           = 'My pod can use every person and describing to all'
+    s.version           = '0.0.3'
+    s.summary           = 'My pod can use every person and new tag version'
     s.homepage          = 'https://github.com/MottalebGakk/ExperimentsSDK.git'
 
     s.author            = { 'Md Abdul Mottaleb' => 'mottalebgakk@gmail.com'}
