@@ -6,7 +6,7 @@
 //
 
 import UIKit
-//import HomePageSDK
+import HomePageSDK
 
 class ViewController: UIViewController {
 
@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     @IBAction func ClickMe(_ sender: Any) {
         
         debugPrint("It Clicked me..!")
-        //CoreClass.shared.gotoHomeVC(nav: self.navigationController)
+        CoreClass.shared.gotoHomeVC(nav: self.navigationController)
         
     }
     

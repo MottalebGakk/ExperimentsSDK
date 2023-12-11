@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Anur1ncBzNouAheaWbur9uSp4bM=
+		i+qTZ1tuIloFbEvBdRdFAUjk5X8=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		eSTKY2f6ia+jE/1UKBYXod8D+ZI=
+		pSEWKPA7Ux+0IUHD+4yjcaB6+uk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,11 @@
 		</data>
 		<key>SubHome.nib</key>
 		<data>
-		kuvip8wrlgCW0dtR5ldrRbrTNDU=
+		r9RbzbaRSJ+XCTQEKrWMTJzfjys=
+		</data>
+		<key>ThirdVC.nib</key>
+		<data>
+		K89O70PYbv8v0cd7BRFkSY/3RDs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -76,7 +80,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h6x3Qomq5r0X+1/CUDnl+gx5iefAR0vc28mZ8YowJSc=
+			OyWSnNpB8CtsXbOw2EOTw5HXWQ4AAhQBhkMIvXq1xv0=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +108,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4wBKDq3dW8Ekb3pK1yk4gQfmnDJGmCUqtSCxbrj5wow=
+			IPJW++m5HsjwD4UZ6d9tz8WdWasBw37EHhodQHfOC/Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -118,7 +122,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LMTz86D5rY0erI/H1wT+upuun0CKnhuskBCIBiKA8Q0=
+			g6c0Yt8D6vvUzdVRDujnj+BAOX+RpCsma/ogArsnfeU=
+			</data>
+		</dict>
+		<key>ThirdVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VF7EFZUk7ui2a/h6AOU84lYy9PWNiXmDv1ISOqFgJl8=
 			</data>
 		</dict>
 	</dict>

@@ -7,16 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B2EC1B92B26F55D005C0202 /* HomePageSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B2EC1B82B26F55C005C0202 /* HomePageSDK.xcframework */; };
 		2BC3E42D2B2584E5003473D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC3E42C2B2584E5003473D8 /* AppDelegate.swift */; };
 		2BC3E4312B2584E5003473D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC3E4302B2584E5003473D8 /* ViewController.swift */; };
 		2BC3E4342B2584E5003473D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BC3E4322B2584E5003473D8 /* Main.storyboard */; };
 		2BC3E4362B2584E8003473D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BC3E4352B2584E8003473D8 /* Assets.xcassets */; };
 		2BC3E4392B2584E8003473D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BC3E4372B2584E8003473D8 /* LaunchScreen.storyboard */; };
+		2BFF6E512B2725E2001CD7D3 /* HomePageSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2B2EC1B82B26F55C005C0202 /* HomePageSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = HomePageSDK.xcframework; sourceTree = "<group>"; };
 		2BC3E4292B2584E5003473D8 /* SdkExperimentHP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SdkExperimentHP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BC3E42C2B2584E5003473D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2BC3E4302B2584E5003473D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +23,7 @@
 		2BC3E4352B2584E8003473D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BC3E4382B2584E8003473D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BC3E43A2B2584E8003473D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = HomePageSDK.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,7 +31,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B2EC1B92B26F55D005C0202 /* HomePageSDK.xcframework in Frameworks */,
+				2BFF6E512B2725E2001CD7D3 /* HomePageSDK.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -41,7 +41,7 @@
 		2BC3E4202B2584E5003473D8 = {
 			isa = PBXGroup;
 			children = (
-				2B2EC1B82B26F55C005C0202 /* HomePageSDK.xcframework */,
+				2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */,
 				2BC3E42B2B2584E5003473D8 /* SdkExperimentHP */,
 				2BC3E42A2B2584E5003473D8 /* Products */,
 			);
