@@ -9,7 +9,7 @@ it, simply add the following line to your Podfile:
 
 pod 'SdkExperimentHP’
 ## Use Pod version
-pod 'SdkExperimentHP', '~> 0.0.4'
+pod 'SdkExperimentHP', '~> 0.0.5'
 
 ## Minimum deployment
 use iOS 11
