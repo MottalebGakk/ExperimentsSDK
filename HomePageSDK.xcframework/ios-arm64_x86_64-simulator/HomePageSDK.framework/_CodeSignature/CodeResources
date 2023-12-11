@@ -14,7 +14,7 @@
 		</data>
 		<key>HomeVC.nib</key>
 		<data>
-		YFU2AkYhNWwULSdiWp9sbCj1tWM=
+		DZ9rvtvH7LlCE3uU8doIP7pxt00=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jdr6ZV9qzMsVlAwR7t6c+DIsHRw=
+		ON/DrCK8x69GidxYznFnqyfJ2GA=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jQZrpUPV0cPngqHm44yGGoOxoI0=
+		v1pgeGdGGej0w69l1f3QgNpItD4=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jdr6ZV9qzMsVlAwR7t6c+DIsHRw=
+		ON/DrCK8x69GidxYznFnqyfJ2GA=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,11 +58,15 @@
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iNkUZFXpf+FLcMRS8wZrviOnSxc=
+		/ECoSKW02DwaMBo86lfWJoDYXQI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		GwHhDmsCThkQjzacCktpP96x59M=
+		</data>
+		<key>SubHome.nib</key>
+		<data>
+		kuvip8wrlgCW0dtR5ldrRbrTNDU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -85,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KWXekN8j4y9LJkAYk37P5gwHLks+fb016djX5NDciVc=
+			SME1nJ1VKVybmo3GEcopYjxXYnXIvFQV0fEEBl9VXoA=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sZx1DwTDq2NPUSFx0f0aqLV0lBJZ1iBldq/MTZhc/4w=
+			fkHML1X0dhBO0pCHyJZA8pRlG1LjDlEzbo6LKOlz2s0=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -120,14 +124,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pgeBR27U4oX3ITud/nrCyG8hnkGTrhoJzPG/lKpdSTU=
+			hJ2xx/NgNnFbn6P8AgkUHhVO4V/6J4gENpM/oN3G62A=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sZx1DwTDq2NPUSFx0f0aqLV0lBJZ1iBldq/MTZhc/4w=
+			fkHML1X0dhBO0pCHyJZA8pRlG1LjDlEzbo6LKOlz2s0=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -155,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			krgoSuMZv9YpdMi/7K8cvj9h5JYFjne9dz5j91bSVSc=
+			2/oPPo8LjpMLW4npBigh4+hxojIGy6b/MK9wpnfRNVU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -163,6 +167,13 @@
 			<key>hash2</key>
 			<data>
 			QHAYKasKP3UX++BuJuzItHCNJdnjoC74CGDAZMzIm58=
+			</data>
+		</dict>
+		<key>SubHome.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LMTz86D5rY0erI/H1wT+upuun0CKnhuskBCIBiKA8Q0=
 			</data>
 		</dict>
 	</dict>
