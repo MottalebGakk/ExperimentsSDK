@@ -1,5 +1,5 @@
 # SdkExperimentHP
-[![Version](https://img.shields.io/cocoapods/v/ExperimentsSDK)](https://github.com/MottalebGakk/ExperimentsSDK)
+[![Version](https://img.shields.io/cocoapods/v/ExperimentsSDK) ](https://github.com/MottalebGakk/ExperimentsSDK)
 [![License](https://img.shields.io/github/license/MottalebGakk/ExperimentsSDK)]([https://github.com/MottalebGakk/ExperimentsSDK](https://github.com/MottalebGakk/ExperimentsSDK))
 
 ## Installation
@@ -36,7 +36,7 @@ Delete schene
 CoreClass.shared.gotoHomeVC(nav: self.navigationController)
 
 ## FAQ 
-Rezwan(rezwan.gakk@gmail.com)(+8801717230976)
+Mottaleb(abdulmottaleb945@gmail.com)(+8801795937303)
 
 ## Company
 
