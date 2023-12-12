@@ -44,4 +44,4 @@ Rezwan(rezwan.gakk@gmail.com)(+8801717230976)
 
 ## License
 
-DeenIslamBLSDK is available under the MIT license. See the LICENSE file for more info
+SdkExperimentHP is available under the MIT license. See the LICENSE file for more info
