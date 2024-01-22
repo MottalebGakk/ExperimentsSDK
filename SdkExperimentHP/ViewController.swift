@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func ClickMe(_ sender: Any) {
         
-        debugPrint("It Clicked me..!")
+        debugPrint("It Clicked me.. .!")
         CoreClass.shared.gotoHomeVC(nav: self.navigationController)
         
     }
