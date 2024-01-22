@@ -14,19 +14,19 @@
 		</data>
 		<key>HomeVC.nib</key>
 		<data>
-		DZ9rvtvH7LlCE3uU8doIP7pxt00=
+		rulQAsDRz7B5mea3W/kPc67yby4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EfSal/N9wpfCpsBeIHZr+Posqgg=
+		WWKQlS3sDyWyBzG3h0C6F9dnkOg=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		i+qTZ1tuIloFbEvBdRdFAUjk5X8=
+		YKlaUoeSE6lLuZGHpGq3X52zeT4=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		vvYFwylnMYDvF9z8dTLi4wQedfk=
+		KvOuVlYl7cYofvx/qXlIDk/BNeg=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		vvYFwylnMYDvF9z8dTLi4wQedfk=
+		KvOuVlYl7cYofvx/qXlIDk/BNeg=
 		</data>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		pSEWKPA7Ux+0IUHD+4yjcaB6+uk=
+		TXDHHIGFg81megrFSEV2BrO5w4E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,6 +51,10 @@
 		<key>ThirdVC.nib</key>
 		<data>
 		K89O70PYbv8v0cd7BRFkSY/3RDs=
+		</data>
+		<key>sampleVideo.mp4</key>
+		<data>
+		1od+Bj6oflMLrCIM2u1PVIeSTBo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -73,21 +77,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SME1nJ1VKVybmo3GEcopYjxXYnXIvFQV0fEEBl9VXoA=
+			tSGFKjiygG6cuKoh1YaHsJGggI/fpk/1VAhMJsJlLgk=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OyWSnNpB8CtsXbOw2EOTw5HXWQ4AAhQBhkMIvXq1xv0=
+			iKLc90NK6hYMBbnQPwbVNvzKERrdwpEhr6uV3zRUU4E=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6TF4RZM1cR+XiJc1hXLBMCTMQpgTJnrtvg/AjLRA8JQ=
+			oDeh3NzIKHmfIEm5XIxH3IJRcjea/FZwJVYCgMNi3GE=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -101,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6TF4RZM1cR+XiJc1hXLBMCTMQpgTJnrtvg/AjLRA8JQ=
+			oDeh3NzIKHmfIEm5XIxH3IJRcjea/FZwJVYCgMNi3GE=
 			</data>
 		</dict>
 		<key>Modules/HomePageSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IPJW++m5HsjwD4UZ6d9tz8WdWasBw37EHhodQHfOC/Y=
+			cH0i1EH9MmUbmMYbYAe1oHnPY/wETRLFo1TlIzRfI1Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -130,6 +134,13 @@
 			<key>hash2</key>
 			<data>
 			VF7EFZUk7ui2a/h6AOU84lYy9PWNiXmDv1ISOqFgJl8=
+			</data>
+		</dict>
+		<key>sampleVideo.mp4</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6j7XsLqDK+0f7wlUGQgGfo1NZ6ZXdhxq+EpDB5GJiGI=
 			</data>
 		</dict>
 	</dict>
