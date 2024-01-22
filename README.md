@@ -16,7 +16,7 @@ use iOS 11
 
 ## SDK Initilization 
 In Appdelegate and Scendelegate initilization process
-import.
+import HomePageSDK
 
 ## Add in AppDelegate
 var window: UIWindow?
