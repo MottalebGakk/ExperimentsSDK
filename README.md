@@ -16,6 +16,8 @@ use iOS 11
 
 ## SDK Initilization 
 In Appdelegate and Scendelegate initilization process
+
+## Import
 import HomePageSDK
 
 ## Add in AppDelegate
