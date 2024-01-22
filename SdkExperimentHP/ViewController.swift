@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         
         debugPrint("It Clicked me.. .!")
         debugPrint("It Clicked me.. .2")
+        debugPrint("It Clicked me.. .3")
         CoreClass.shared.gotoHomeVC(nav: self.navigationController)
         
     }
