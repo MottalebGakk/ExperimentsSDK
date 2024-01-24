@@ -18,7 +18,8 @@ class ViewController: UIViewController {
 
     @IBAction func ClickMe(_ sender: Any) {
         
-        
+        // if i changed but not get pull from github i don;t push now , let's check
+        debugPrint(" Printing...!")
         CoreClass.shared.gotoHomeVC(nav: self.navigationController)
         
     }
