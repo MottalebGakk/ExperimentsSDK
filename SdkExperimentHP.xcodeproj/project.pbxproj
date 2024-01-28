@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B99D7002B6625E4006F6137 /* HomePageSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */; };
-		2B99D7012B6625E4006F6137 /* HomePageSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		2BBCE4BF2B66629800E65ECE /* HomePageSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */; };
+		2BBCE4C02B66629800E65ECE /* HomePageSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2BFF6E502B2725E2001CD7D3 /* HomePageSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		2BC3E42D2B2584E5003473D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC3E42C2B2584E5003473D8 /* AppDelegate.swift */; };
 		2BC3E4312B2584E5003473D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC3E4302B2584E5003473D8 /* ViewController.swift */; };
 		2BC3E4342B2584E5003473D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BC3E4322B2584E5003473D8 /* Main.storyboard */; };
@@ -17,13 +17,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		2B99D7022B6625E4006F6137 /* Embed Frameworks */ = {
+		2BBCE4C12B66629800E65ECE /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				2B99D7012B6625E4006F6137 /* HomePageSDK.xcframework in Embed Frameworks */,
+				2BBCE4C02B66629800E65ECE /* HomePageSDK.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,7 +46,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B99D7002B6625E4006F6137 /* HomePageSDK.xcframework in Frameworks */,
+				2BBCE4BF2B66629800E65ECE /* HomePageSDK.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,7 +101,7 @@
 				2BC3E4252B2584E5003473D8 /* Sources */,
 				2BC3E4262B2584E5003473D8 /* Frameworks */,
 				2BC3E4272B2584E5003473D8 /* Resources */,
-				2B99D7022B6625E4006F6137 /* Embed Frameworks */,
+				2BBCE4C12B66629800E65ECE /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
