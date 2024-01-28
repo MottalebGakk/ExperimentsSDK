@@ -8,8 +8,6 @@ SdkExperimentHP is available through [CocoaPods]([https://github.com/MottalebGak
 it, simply add the following line to your Podfile:
 
 pod 'SdkExperimentHP’
-## Use Pod version
-pod 'SdkExperimentHP', '~> 0.0.7'
 
 ## Minimum deployment
 use iOS 11
