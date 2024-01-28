@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         
         // if i changed but not get pull from github i don;t push now , let's check
         debugPrint(" Printing...!")
+        debugPrint(" Printing...!!")
         CoreClass.shared.gotoHomeVC(nav: self.navigationController)
         
     }
